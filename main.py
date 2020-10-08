@@ -3,7 +3,7 @@ import os
 from discord.ext import commands
 import urllib.request as urllib2
 
-token = "NzI3NTQwMTMyNTkyMzUzMzIw.XvtUjA.gpzU-iaHPBK6vWDr__OKMxzeMYY"
+token = # your token
 bot = commands.Bot(command_prefix="!")
 bot.remove_command('help')
 
