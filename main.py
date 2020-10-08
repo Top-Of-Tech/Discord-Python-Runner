@@ -4,7 +4,7 @@ from discord.ext import commands
 import urllib.request as urllib2
 
 token = # your token
-bot = commands.Bot(command_prefix="!")
+bot = commands.Bot(command_prefix="py.")
 bot.remove_command('help')
 
 
